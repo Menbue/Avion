@@ -1,5 +1,6 @@
 # Avion
-
+Мой первый шаблон. Адаптиваня вёрстка. Без ипользования анимаций и JS.
+Дизайн взят из Figma https://www.figma.com/file/rjAXftiZjTCvp5BuB2NCgs/template28?node-id=1%3A3&t=ISZkzY5iQHgo6W16-1
 
 
 ## Getting started
